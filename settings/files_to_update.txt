@@ -1,9 +1,6 @@
 .github/workflows/exercise.yml
-.gitpod.yml
-.theia/settings.json
 _exercice_version_prof.py
 data/sample_countries.txt
-environment.yml
 instructions.md
 README.md
 test_exercice.py
